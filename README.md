@@ -36,7 +36,7 @@
     <li>👯 I'm Looking to Collaborate on  <b>Data Science (NLP, Deep Learning), Robotics, Unity Game Development, React-Node.js, Flutter, And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
     <li>🌱 I’m currently learning <b>Cloud Computing, Devops and DSA<b></li>
-    <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
+    <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
 <!--     <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li> -->
     <li>😄 Pronouns: <b>He/Him</b> 💁‍</li>
     <li>⚡ Fun fact: Richard Hendricks, Erlich Bachman, Gilfoyle, Dinesh, Jared, Big Head</li>
