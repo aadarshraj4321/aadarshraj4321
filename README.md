@@ -1,1 +1,1 @@
-<h1>Hey, enjoy your life</h1>
+<h1>Hey, enjoy your life.</h1>
